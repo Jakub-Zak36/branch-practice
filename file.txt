@@ -1,6 +1,0 @@
-﻿Hello World?
-
-I have now edited the file on the feature branch
-
-Hurray!
-
